@@ -1,5 +1,0 @@
-﻿
-
-4. Describe the version of sliding window protocol running under TCP. Justify your answer with the relevant fields of the TCP header. (Do not include anything related to congestion control in this answer)
-6. P2P applications need to have the logic for forming and maintaining the P2P network. Explain a mechanism that ensure that when one node exits the network, other nodes remain a part of the network.
-7. Explain the mechanism of distance vector (DV) based routing protocol. Show the relevant packet and table structures.
