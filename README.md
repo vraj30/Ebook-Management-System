@@ -36,7 +36,7 @@ git clone https://github.com/your-username/online-ebook-store.git
 - Set up the MySQL Database:
 
   - Create a new MySQL database named ebook_store.
-  - Import the SQL script located in db/ebook_store.sql to set up the tables.
+  - Import the SQL ebook.sql to set up the tables.
     
 - Update Database Configuration:
 
